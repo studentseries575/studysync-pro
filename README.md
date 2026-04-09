@@ -62,7 +62,7 @@ A modern productivity web application designed for students to manage tasks, not
 
 👉 Add your live link here:
 
-[Live App]( https://studentseries575.github.io/studysync-pro/) 
+[Live App](https://studentseries575.github.io/studysync-pro/) 
 
 ---
 
