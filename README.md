@@ -76,7 +76,7 @@ cd studysync-pro
 Then open:
 
 ```
-index.html
+login.html
 ```
 
 ---
@@ -85,7 +85,7 @@ index.html
 
 ```
 StudySync-Pro/
-│── index.html
+│── login.html
 │── dashboard.html
 │── style.css
 │── script.js
